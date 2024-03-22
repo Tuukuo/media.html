@@ -1,0 +1,295 @@
+.container{
+    background-color: aqua;
+}
+.first{
+    background-color: rgb(12, 12, 28);
+    border: solid 1px rgb(12, 12, 23);
+   margin-top: 100px;
+   margin-left: 200px;
+    width:  80%;
+    height: 800px;
+    margin-bottom: 0;
+
+}
+.nav{
+    display: flex;
+    background-color: rgb(48, 48, 73);
+    justify-content: space-between;
+    
+}
+.nav ul{
+    display: flex;
+    list-style: none;
+    gap: 3%;
+    padding-left: 80px;
+    justify-content: space-between;
+    color: white;
+
+    
+}
+.nav a{
+color: white;
+}
+.nav button{
+    padding-left: 60px;
+    background-color: rgb(73, 73, 182);
+    border: solid 1px white;
+    border-radius: 20px;
+    height: 50px;
+    padding: 20px;
+    
+}
+.bar{
+    display: flex;
+    /* justify-content: space-between; */
+}
+.listbt{
+    display: flex;
+    justify-content: space-between;
+    /* gap: 10%; */
+}
+.stealt{
+    display: flex;
+    margin-top: 150px;
+    margin-left: 200px;
+    color: aliceblue;
+    font-size: xx-large;
+    font-style: italic;
+    font-weight: bold;
+}
+.h1{
+    margin-left: 200px;
+    color: aliceblue;
+}
+.h1 em{
+    color: chocolate;
+}
+.overall{
+    display: flex;
+}
+.image{
+    height: 500px;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+#sign{
+  background-color: rgb(52, 200, 200); 
+  padding: 20px; 
+  border-radius: 15px;
+  color: white;
+}
+#log{
+    padding: 20px; 
+    border-radius: 15px;
+    margin-left: 30px;
+    color: rgb(219, 208, 208); 
+    background-color: rgb(47, 47, 68);
+}
+.second{
+     background-color: white; 
+    height: 1400px; 
+
+     
+}
+.second h1 em{
+    color: chocolate;
+}
+.second h1{
+    text-align: center;
+    padding: 100px;
+}
+.all{
+    display: flex;
+    justify-content: space-between;
+}
+.circle{
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+    background-color: rgb(44, 42, 42);
+    margin-top: 150px;
+    margin-left: 200px;
+    position: relative;
+}
+.expert h2 em{
+    color: chocolate;
+}
+.expert{
+    display: flex;
+    padding-top: 100px;
+    justify-content: space-between;
+}
+.tick{
+    display: flex;
+}
+#button{
+    background-color: blue;
+    color: white;
+    padding: 16px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.phone{
+    position: absolute;
+    top: 1600px;
+}
+.third{
+    background-color: rgb(193, 245, 245);
+    height: 900px;
+}
+.third h1 em{
+    color: chocolate;
+}
+.third h1{
+    text-align: center;
+    font-style: italic;
+    margin-top: 200px;
+}
+#explore{
+    background-color: chocolate;
+    margin-left: 300px;
+    padding: 16px;
+    color: white;
+    cursor: pointer;
+    border-radius: 20px;
+}
+.third p{
+    text-align: center;
+    font-style: italic;
+}
+.tablet{
+    width: 400px;
+    margin-top: 100px;
+    margin-left: 200px;
+}
+.fourth{
+    background-color: white;
+    height: 1100px;
+}
+.high{
+    display: flex;
+    justify-content: space-between;
+}
+#view{
+padding: 5px;
+background-color: blue;
+color: white;
+width: 140px;
+}
+.high h2 em{
+  color: blue;
+  color: chocolate;
+}
+.combine{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+.combine button{
+    border-color: aqua;
+
+}
+#en{
+    color: rgb(97, 192, 192);
+}
+#general{
+    color: chocolate;
+}
+#inform{
+    color: blue;
+}
+.small{
+    background-color: rgb(40, 40, 52);
+    height: 300px;
+    width: 850px;
+    margin-top: 100px;
+    margin-left: 350px;
+    border-radius: 50px;
+}
+.arrange{
+    display: flex;
+    margin-top: 50px;
+    justify-content: space-between;
+}
+.arrange h3{
+    color: white;
+    margin-top: 50px;
+    margin-left: 60px;
+}
+.arrange h3 em{
+    color: chocolate;
+}
+ #paragraph{
+    color: white;
+    margin-top: 60px;
+
+}
+.arrange button{
+    background-color: rgb(123, 248, 241);
+    padding: 5px;
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-left: 130px;
+}
+#image{
+    margin-top: 100px;
+}
+.fifth{
+    background-color: rgb(40, 40, 59);
+    height: 500px;
+    margin-top: 100px;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+}
+.footer h2{
+    color: white;
+    margin-top: 200px;
+}
+.footer p{
+    color: white;
+}
+.footer input{
+    padding: 15px;
+    margin-top: 100px;
+    background-color: rgb(40, 40, 59); ;
+}
+.subscribe{
+    display: flex;
+    margin-top: 200px;
+}
+#box{
+    margin-top: 5px;
+}
+#sub{
+    margin-top: 5px;  
+}
+.line{
+    color: white;
+    padding-left: 50px;
+    margin-top: 50px;
+}
+#cyb{
+    color: aliceblue;
+    font-size: larger;
+    font-weight: bolder;
+}
+@media only screen and (min-width: 1024px){
+    .body{
+        width: 400px;
+    }
+.small{
+      width: 650px;
+        margin-left: 3px;
+    
+    }  
+}
+
+
+
+
+
+
+
+
